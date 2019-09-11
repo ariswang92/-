@@ -6,10 +6,21 @@ I'm now 4th year PhD in Department of Mathematics in the University of Hong Kong
 
 Numerical analysis, uncertainty quantification.
 
-## Previous works
+## Previous topics
 
-### Structure preserving methods
+- Symplectic methods in SDE
+- Effective Diffusivities
+- POD
+- Tensor Train
+- Deep Learning in PDEs
 
-### Reduced order models
+## CV
 
-### Deep Learning in PDEs
+Full CV can be downloaded [here](), or in [Dropbox](https://www.dropbox.com/s/xlj5cpcve6i3f72/cv.pdf?dl=0)
+
+## Contact
+
+214 RunRunShaw Building, HKU, Hong Kong
+
+ariswang at connect dot hku dot hk
+
