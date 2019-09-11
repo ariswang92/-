@@ -16,7 +16,7 @@ Numerical analysis, uncertainty quantification.
 
 ## CV
 
-Full CV can be downloaded [here](), or in [Dropbox](https://www.dropbox.com/s/xlj5cpcve6i3f72/cv.pdf?dl=0)
+Full CV can be downloaded [here](/cv_long.pdf), or in [Dropbox](https://www.dropbox.com/s/xlj5cpcve6i3f72/cv.pdf?dl=0)
 
 ## Contact
 
